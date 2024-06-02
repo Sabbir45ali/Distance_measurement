@@ -1,6 +1,6 @@
 # Arduino Distance Measurement System
 
-This project uses an Arduino Uno, an HC-SR04 ultrasonic sensor, and a 16x2 LCD display to measure distances and display the results.
+This project uses an Arduino Uno,NodeMCU ESP8266 an HC-SR04 ultrasonic sensor, and a 16x2 LCD display to measure distances and display the results.
 
 ## Components Needed
 
